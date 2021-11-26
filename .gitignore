@@ -1,2 +1,5 @@
 __pycache__
+*.so
 *.o
+helloworld/*.c
+c_extension/*.c
