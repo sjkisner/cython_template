@@ -1,3 +1,4 @@
+#!/bin/bash
 
 package=helloworld
 /bin/rm -v -fr ${package}/build 2> /dev/null
